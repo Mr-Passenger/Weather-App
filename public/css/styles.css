@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  padding-top: 6%;
+  background-image: url("../images/background.jpg");
+}
+h1 {
+  /* color: rgb(39, 39, 158); */
+  color: #48466d;
+}
+p {
+  font-size: 1.5rem;
+  /* color: rgb(17, 17, 17); */
+  color: #323232;
+}
+.box {
+  background-color: rgba(225, 230, 228, 0.5);
+  padding: 3%;
+  width: 40%;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+.form-container {
+  margin-top: 3%;
+}
+input {
+  margin: 3%;
+  width: 50%;
+  outline: none;
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 2%;
+}
+button {
+  width: 50%;
+  margin-bottom: 3%;
+}
+.alert p {
+  font-size: 1.2rem;
+}
